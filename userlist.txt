@@ -1,6 +1,7 @@
 !root
 $ALOC$
 $SRV
+authorized
 $system
 (NULL)
 (any)
